@@ -1,0 +1,67 @@
+# AI Fortress · Chapter 1 · RBAC Role Configuration
+# Edit this file to customise roles without changing Python code.
+# classification_ceiling values: PUBLIC | INTERNAL | CONFIDENTIAL | RESTRICTED
+
+roles:
+  data-engineer:
+    description: "Ingests and transforms training data. No access to model artifacts."
+    allowed_actions:
+      - read
+      - write
+      - list
+    allowed_resource_prefixes:
+      - "s3://*/raw/"
+      - "s3://*/processed/"
+      - "s3://*/staging/"
+    classification_ceiling: CONFIDENTIAL
+
+  ml-engineer:
+    description: "Trains and evaluates models. Read datasets; write model artifacts."
+    allowed_actions:
+      - read
+      - write
+      - list
+    allowed_resource_prefixes:
+      - "s3://*/datasets/"
+      - "s3://*/models/"
+      - "s3://*/experiments/"
+    classification_ceiling: CONFIDENTIAL
+
+  ml-researcher:
+    description: "Read-only access to non-PII datasets and published models."
+    allowed_actions:
+      - read
+      - list
+    allowed_resource_prefixes:
+      - "s3://*/datasets/non-pii/"
+      - "s3://*/models/published/"
+    classification_ceiling: INTERNAL
+
+  model-validator:
+    description: "Read-only access to model artifacts and evaluation datasets."
+    allowed_actions:
+      - read
+      - list
+    allowed_resource_prefixes:
+      - "s3://*/models/"
+      - "s3://*/eval/"
+    classification_ceiling: CONFIDENTIAL
+
+  auditor:
+    description: "Read-only access to audit logs and metadata. No raw data or weights."
+    allowed_actions:
+      - read
+      - list
+    allowed_resource_prefixes:
+      - "s3://*/audit-logs/"
+      - "s3://*/metadata/"
+      - "s3://*/manifests/"
+    classification_ceiling: RESTRICTED
+
+  admin:
+    description: "Full access. Break-glass only — requires PAM session recording."
+    allowed_actions:
+      - "*"
+    allowed_resource_prefixes:
+      - "*"
+    classification_ceiling: RESTRICTED
