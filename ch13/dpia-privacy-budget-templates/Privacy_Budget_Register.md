@@ -102,4 +102,4 @@ release + statistics publication), **composition applies**:
 
 ---
 
-*Template: AI Fortress Chapter 13 · Modo Bhaik*
+*Template: AI Fortress Chapter 13 · Mohan Krishnamurthy*

@@ -134,4 +134,4 @@ The system **passes** fairness evaluation if ALL of the following are true:
 
 ---
 
-*Template: AI Fortress Chapter 16 · Modo Bhaik*
+*Template: AI Fortress Chapter 16 · Mohan Krishnamurthy*

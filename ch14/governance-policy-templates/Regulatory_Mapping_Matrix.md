@@ -242,4 +242,4 @@ Add / remove rows to reflect your organisation's applicable frameworks.
 
 ---
 
-*Template: AI Fortress Chapter 14 · Modo Bhaik*
+*Template: AI Fortress Chapter 14 · Mohan Krishnamurthy*

@@ -249,4 +249,4 @@ Mark all that apply and provide evidence:
 
 ---
 
-*Template: AI Fortress Chapter 17 · Modo Bhaik*
+*Template: AI Fortress Chapter 17 · Mohan Krishnamurthy*

@@ -2,7 +2,7 @@
 ## Data Confidentiality & Integrity
 
 **Book:** AI Fortress: 17 Pillars for Securing the Machine Learning Lifecycle  
-**Author:** Modo Bhaik  
+**Author:** Mohan Krishnamurthy  
 **Chapter:** 1 of 17
 
 ---
@@ -36,4 +36,4 @@ Full documentation, updated library references, and resources for all
 
 ---
 
-*© AI Fortress · Modo Bhaik. For educational and professional use.*
+*© AI Fortress · Mohan Krishnamurthy. For educational and professional use.*

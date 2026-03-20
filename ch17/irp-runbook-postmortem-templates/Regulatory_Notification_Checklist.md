@@ -234,4 +234,4 @@ Any incident that directly or indirectly led, or could have led to:
 
 ---
 
-*Template: AI Fortress Chapter 17 · Modo Bhaik*
+*Template: AI Fortress Chapter 17 · Mohan Krishnamurthy*

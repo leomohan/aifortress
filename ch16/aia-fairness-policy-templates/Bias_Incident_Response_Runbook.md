@@ -238,4 +238,4 @@ The post-incident report must include:
 
 ---
 
-*Template: AI Fortress Chapter 16 · Modo Bhaik*
+*Template: AI Fortress Chapter 16 · Mohan Krishnamurthy*

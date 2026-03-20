@@ -161,5 +161,5 @@ For each risk, rate likelihood (1–5) and impact (1–5). Risk score = likeliho
 
 ---
 
-*Template: AI Fortress Chapter 13 · Modo Bhaik*  
+*Template: AI Fortress Chapter 13 · Mohan Krishnamurthy*  
 *For educational and professional use. Consult qualified legal counsel before deployment.*

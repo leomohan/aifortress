@@ -120,4 +120,4 @@ The organisation accepts residual AI risk scores of 5 or below without escalatio
 
 ---
 
-*Template: AI Fortress Chapter 14 · Modo Bhaik*
+*Template: AI Fortress Chapter 14 · Mohan Krishnamurthy*

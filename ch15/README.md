@@ -2,7 +2,7 @@
 ## Edge AI & Embedded ML Security
 
 **Book:** AI Fortress: 17 Pillars for Securing the Machine Learning Lifecycle  
-**Author:** Modo Bhaik  
+**Author:** Mohan Krishnamurthy  
 **Chapter:** 15 of 17
 
 ---
@@ -51,4 +51,4 @@ pytest tests/ -v
 
 ---
 
-*© AI Fortress · Modo Bhaik. For educational and professional use.*
+*© AI Fortress · Mohan Krishnamurthy. For educational and professional use.*

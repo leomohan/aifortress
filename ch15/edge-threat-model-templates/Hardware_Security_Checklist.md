@@ -150,4 +150,4 @@
 
 ---
 
-*Template: AI Fortress Chapter 15 · Modo Bhaik*
+*Template: AI Fortress Chapter 15 · Mohan Krishnamurthy*

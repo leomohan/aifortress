@@ -147,4 +147,4 @@ Document what is explicitly excluded:
 
 ---
 
-*Template: AI Fortress Chapter 15 · Modo Bhaik*
+*Template: AI Fortress Chapter 15 · Mohan Krishnamurthy*

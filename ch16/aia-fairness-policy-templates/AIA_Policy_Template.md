@@ -155,4 +155,4 @@ Failure to complete a required AIA before deployment constitutes a policy violat
 
 ---
 
-*Template: AI Fortress Chapter 16 · Modo Bhaik*
+*Template: AI Fortress Chapter 16 · Mohan Krishnamurthy*

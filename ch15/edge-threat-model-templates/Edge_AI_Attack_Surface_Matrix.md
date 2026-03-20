@@ -104,4 +104,4 @@ Complete after filling in all surfaces above.
 
 ---
 
-*Template: AI Fortress Chapter 15 · Modo Bhaik*
+*Template: AI Fortress Chapter 15 · Mohan Krishnamurthy*

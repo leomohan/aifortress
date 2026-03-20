@@ -250,4 +250,4 @@ Mandatory for all P1/P2 incidents; strongly recommended for P3.
 
 ---
 
-*Template: AI Fortress Chapter 17 · Modo Bhaik*
+*Template: AI Fortress Chapter 17 · Mohan Krishnamurthy*

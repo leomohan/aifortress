@@ -2,7 +2,7 @@
 ## AI Security Incident Response
 
 **Book:** AI Fortress: 17 Pillars for Securing the Machine Learning Lifecycle  
-**Author:** Modo Bhaik  
+**Author:** Mohan Krishnamurthy  
 **Chapter:** 17 of 17 — FINAL CHAPTER
 
 ---
@@ -75,4 +75,4 @@ Detect -> Triage -> Contain -> Investigate -> Remediate -> Recover -> Post-Incid
 
 ---
 
-*AI Fortress. Modo Bhaik. For educational and professional use.*
+*AI Fortress. Mohan Krishnamurthy. For educational and professional use.*
