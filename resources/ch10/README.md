@@ -2,7 +2,7 @@
 ## Monitoring, Drift Detection & SOC Integration
 
 **Book:** AI Fortress: 17 Pillars for Securing the Machine Learning Lifecycle  
-**Author:** Mohan Krishnamurthy  
+**Author:** Modo Bhaik  
 **Chapter:** 10 of 17
 
 ---
@@ -46,4 +46,4 @@ pytest tests/ -v
 
 ---
 
-*© AI Fortress · Mohan Krishnamurthy. For educational and professional use.*
+*© AI Fortress · Modo Bhaik. For educational and professional use.*

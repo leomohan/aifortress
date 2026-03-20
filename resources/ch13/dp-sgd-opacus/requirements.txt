@@ -1,5 +1,0 @@
-pytest>=8.0.0
-pytest-cov>=5.0.0
-# Optional heavy dependencies for full DP-SGD training:
-# torch>=2.0.0
-# opacus>=1.4.0

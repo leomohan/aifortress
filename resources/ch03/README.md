@@ -2,7 +2,7 @@
 ## Data Quality & Contamination
 
 **Book:** AI Fortress: 17 Pillars for Securing the Machine Learning Lifecycle  
-**Author:** Mohan Krishnamurthy  
+**Author:** Modo Bhaik  
 **Chapter:** 3 of 17
 
 ---
@@ -50,4 +50,4 @@ Each folder contains its own `README.md` with full usage instructions.
 
 ---
 
-*© AI Fortress · Mohan Krishnamurthy. For educational and professional use.*
+*© AI Fortress · Modo Bhaik. For educational and professional use.*
